@@ -213,9 +213,9 @@ main{
     /* завантаження (4) */
 
     position: absolute;
-    width: 353px;
-    height: 353px;
-    left: 600px;
+    width: 383px;
+    height: 383px;
+    left: 700px;
     top: 755px;
 
     border-radius: 48px;
@@ -336,7 +336,7 @@ text-decoration: none;
     position: absolute;
     width: 225px;
     height: 150px;
-    left: 549px;
+    left: 609px;
     top: 1459px;
 
 
@@ -348,7 +348,7 @@ text-decoration: none;
     position: absolute;
     width: 280px;
     height: 30px;
-    left: 590px;
+    left: 650px;
     top: 1571px;
 
     font-family: 'Roboto';
@@ -368,7 +368,7 @@ text-decoration: none;
     position: absolute;
     width: 337px;
     height: 46px;
-    left: 584px;
+    left: 634px;
     top: 1680px;
 
     font-family: 'Roboto';
@@ -387,7 +387,7 @@ text-decoration: none;
     position: absolute;
     width: 182px;
     height: 28px;
-    left: 609px;
+    left: 679px;
     top: 1752px;
 
     font-family: 'Roboto';
@@ -416,7 +416,7 @@ text-decoration: none;
     position: absolute;
     width: 235px;
     height: 160px;
-    left: 895px;
+    left: 995px;
     top: 1459px;
 
 }
@@ -427,7 +427,7 @@ text-decoration: none;
     position: absolute;
     width: 255px;
     height: 38px;
-    left: 920px;
+    left: 1020px;
     top: 1575px;
 
     font-family: 'Roboto';
@@ -448,7 +448,7 @@ text-decoration: none;
     position: absolute;
     width: 339px;
     height: 161px;
-    left: 920px;
+    left: 1020px;
     top: 1639px;
 
     font-family: 'Roboto';
@@ -468,7 +468,7 @@ text-decoration: none;
     position: absolute;
     width: 182px;
     height: 28px;
-    left: 920px;
+    left: 1020px;
     top: 1752px;
 text-decoration: none;
     font-family: 'Roboto';
