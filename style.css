@@ -254,7 +254,7 @@ main{
     position: absolute;
     width: 250px;
     height: 350px;
-    left: 60px;
+    left: 160px;
     top: 1350px;
 
     
@@ -267,7 +267,7 @@ main{
     position: absolute;
     width: 143px;
     height: 38px;
-    left: 130px;
+    left: 230px;
     top: 1571px;
 
     font-family: 'Roboto';
@@ -288,7 +288,7 @@ main{
     position: absolute;
     width: 300px;
     height: 23px;
-    left: 60px;
+    left: 160px;
     top: 1639px;
 
     font-family: 'Roboto';
@@ -308,7 +308,7 @@ main{
     position: absolute;
     width: 182px;
     height: 28px;
-    left: 90px;
+    left: 190px;
     top: 1752px;
 text-decoration: none;
     font-family: 'Roboto';
@@ -336,7 +336,7 @@ text-decoration: none;
     position: absolute;
     width: 225px;
     height: 150px;
-    left: 349px;
+    left: 449px;
     top: 1459px;
 
 
@@ -348,7 +348,7 @@ text-decoration: none;
     position: absolute;
     width: 280px;
     height: 30px;
-    left: 390px;
+    left: 490px;
     top: 1571px;
 
     font-family: 'Roboto';
@@ -368,7 +368,7 @@ text-decoration: none;
     position: absolute;
     width: 337px;
     height: 46px;
-    left: 384px;
+    left: 484px;
     top: 1680px;
 
     font-family: 'Roboto';
@@ -387,7 +387,7 @@ text-decoration: none;
     position: absolute;
     width: 182px;
     height: 28px;
-    left: 409px;
+    left: 509px;
     top: 1752px;
 
     font-family: 'Roboto';
@@ -416,7 +416,7 @@ text-decoration: none;
     position: absolute;
     width: 235px;
     height: 160px;
-    left: 695px;
+    left: 795px;
     top: 1459px;
 
 }
@@ -427,7 +427,7 @@ text-decoration: none;
     position: absolute;
     width: 255px;
     height: 38px;
-    left: 720px;
+    left: 820px;
     top: 1575px;
 
     font-family: 'Roboto';
@@ -446,9 +446,9 @@ text-decoration: none;
    
 
     position: absolute;
-    width: 309px;
+    width: 339px;
     height: 161px;
-    left: 720px;
+    left: 820px;
     top: 1639px;
 
     font-family: 'Roboto';
@@ -468,7 +468,7 @@ text-decoration: none;
     position: absolute;
     width: 182px;
     height: 28px;
-    left: 720px;
+    left: 820px;
     top: 1752px;
 text-decoration: none;
     font-family: 'Roboto';
@@ -765,7 +765,7 @@ footer p {
     position: relative;
     width: 131px;
     height: 28px;
-    left: 760px;
+    left: 860px;
     top: 22px;
 
     font-family: 'Roboto';
@@ -786,7 +786,7 @@ footer p {
     position: absolute;
     width: 74px;
     height: 67px;
-    left: 731px;
+    left: 831px;
     top: 88px;
     border-radius: 15px;
 
@@ -797,7 +797,7 @@ footer p {
     position: absolute;
     width: 74px;
     height: 67px;
-    left: 820px;
+    left: 920px;
     top: 88px;
     border-radius: 15px;
 
